@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "This is CSE" );
+        System.out.println( "THIS IS TEST POLL SCM" );
     }
 }
